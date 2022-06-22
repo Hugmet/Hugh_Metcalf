@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="Images/hugh_fav.png" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Hugh Metcalf</title>
+<!-- TemplateEndEditable -->
+
+<script type="text/javascript" src="jquery-1.10.2.js"></script>
+
+<link rel="stylesheet" href="../styles.css">
+	
+<style type="text/css">
+	
+body,td,th {
+    color: #A7A7A7;
+    font-family: "Futura PT Book", "Futura PT Light", "Futura PT Medium";
+    font-size: 16px;
+}
+	
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body link="#FF0000">
+	
+<div id="header">
+      <div align="center">
+		
+		<div id="nav">
+		  
+		<div class="row">
+			<div class="col">
+				<div class="header_pic"><a href="../index.html"><img class="style-logo" href="../index.html" src="../images/logo.png" alt="Hugh Metcalf Logo" /></a>
+				</div>
+			</div>
+		</div>  
+		  
+		  
+		<div class="row">
+			<div class="col">
+			  <nav class="style-nav">
+				  <div id="right_nav">
+						<ul>
+						  <li><a href="../index.html" font size="30">About</a></li>
+						  <li><a href="../video.html">Videos</a></li>
+						  <li><a href="../live.html">Live</a></li>
+						  <li><a href="../Contact.html">Contact</a></li>	
+						</ul>
+					</div><!--close right nav-->
+				</nav>
+			</div>
+		</div>
+      </div>
+   
+	  </div><!-- close header -->
+    </div><!-- close nav-->
+   
+<div id="body"><!-- TemplateBeginEditable name="mainbody" -->
+  <p style="color: #EDEDED; font-size: 24px; font-family: 'Futura PT Book', 'Futura PT Light', 'Futura PT Medium';">&nbsp;</p>		
+    <!-- TemplateEndEditable -->
+    </div><!--close body-->
+
+	  
+    <div id="footer"> 
+      		<p>&nbsp;</p><hr>
+
+	  <div align="center"><p>
+	  		<a href="https://twitter.com/Hugh_Metcalf" target="_blank"><img src="../images/twitter_thumb.png" alt=""></a>
+		
+			<a href="https://www.youtube.com/channel/UCdtxmrqlAVeRqYTlH6sUTjw" target="_blank"><img src="../images/youtube_thumb.png" target="blank"></a>
+		
+      		<a href="https://www.instagram.com/hugh8635/" target="_blank"><img src="../images/Insta_thumb.png" alt=""></a>
+	</p></div>
+
+    </div><!--close footer-->
+</body>
+</html>
