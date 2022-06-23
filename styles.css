@@ -158,11 +158,12 @@ background:#fff; /* Sets a white background */
 }
 
 h1 {
-	color: #FFFFFF;
-	font-size: 37px;
-	text-transform: uppercase;
-	font-weight: 200;
-	margin-bottom: 40px;
+    color: #FFFFFF;
+    font-size: 37px;
+    text-transform: uppercase;
+    font-weight: 200;
+    margin-bottom: 40px;
+    font-family: "Futura PT Book", "Futura PT Light", "Futura PT Medium";
 }
 
 
