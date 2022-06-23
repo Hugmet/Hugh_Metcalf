@@ -15,7 +15,7 @@ ul {
 
 
 #nav {
-    height: 220px;
+    height: 450px;
     padding-top: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
@@ -55,7 +55,7 @@ ul {
 	
 }
 
-/*Desktop View*/
+/*Desktop View b*/
 
 @media (min-width: 1024px){
 	
@@ -88,7 +88,9 @@ ul {
     padding-right: 90px;
     padding-bottom: 8px;
     padding-left: 90px;
-	min-width: 400px:
+
+	min-width: 200px:
+;     font-style: normal;
 }	
 	
 
