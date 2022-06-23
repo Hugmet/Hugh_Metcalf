@@ -44,10 +44,48 @@ body,td,th {
 			  <nav class="style-nav">
 				  <div id="right_nav">
 						<ul>
-						  <li><a href="../index.html" font size="30"><img src="../images/about_up2.png" width="182" height="68" alt=""/></a></li>
-						  <li><a href="../video.html">Videos</a></li>
-						  <li><a href="../live.html">Live</a></li>
-						  <li><a href="../contact.html">Contact</a></li>	
+
+						  <li>
+							  <table width="100" border="0">
+						      	<tbody>
+						        	<tr>
+						          	   <td><a href="../index.html">About</a></td>
+					            	</tr>
+					          	</tbody>
+					          </table>
+						  </li>								
+							
+						  <li>
+							  <table width="100" border="0">
+						      	<tbody>
+						        	<tr>
+						          	   <td><a href="../video.html">Videos</a></td>
+					            	</tr>
+					          	</tbody>
+					          </table>
+						  </li>							
+
+						  <li>
+							  <table width="100" border="0">
+						      	<tbody>
+						        	<tr>
+						          	   <td><a href="../live.html">Live</a></td>
+					            	</tr>
+					          	</tbody>
+					          </table>
+						  </li>								
+							
+							
+						  <li>
+							  <table width="100" border="0">
+						      	<tbody>
+						        	<tr>
+						          	   <td><a href="../contact.html">Contact</a></td>
+					            	</tr>
+					          	</tbody>
+					          </table>
+						  </li>
+							
 						</ul>
 					</div><!--close right t nav-->
 				</nav>
