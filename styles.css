@@ -51,11 +51,12 @@ ul {
 	
 	.style-nav ul li {
 		display: inline-block;
+		font-size: 40px;
 	}
 	
 }
 
-/*Desktop View b*/
+/*Desktop View*/
 
 @media (min-width: 1024px){
 	
@@ -117,7 +118,7 @@ ul {
 }
 
 #header {
-    background-image: url("images/header_pic.jpg");
+    background-image: url("images/header_pic_2.jpg");
     background-size: cover;
     color: #FFFFFF;
     font-size: 12px;
