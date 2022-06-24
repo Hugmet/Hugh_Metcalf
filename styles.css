@@ -108,8 +108,8 @@ ul {
     background-color: #000000;
     text-align: center;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-    line-height: 1.6em;
-	box-sizing: content-box
+    line-height: 2.0em;
+	box-sizing: content-box;
 }
 
 #middle_text {
